@@ -1,5 +1,0 @@
-{
-  "source": "/:slug",
-  "destination": "https://kythuat.queenmobile.info/graphql/:slug",
-  "statusCode": 301
-}
